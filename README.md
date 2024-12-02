@@ -28,10 +28,6 @@ Harness the power of logic and recursion to solve Sudoku puzzles effortlessly. �
 	•	Multi-dimensional transformations 🌐
 	•	Search and filter mechanisms 🔍
 
-# 🚀 Get Started
-
-	1.	Clone this repository:
-
 # 💡 Inspiration
 
 arraysharp is inspired by the beauty and complexity of arrays in computational problems. Let’s turn challenges into solutions! 🌟
